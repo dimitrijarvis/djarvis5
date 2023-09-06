@@ -1,3 +1,2 @@
-# hello-world
-testing
-new file
+# Dimitri Jarvis
+OPS445 NDD
